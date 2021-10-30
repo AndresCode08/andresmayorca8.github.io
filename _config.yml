@@ -1,11 +1,11 @@
-title: Tu nombre y apellido # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Andres Mayorca # your name (or website title) here
+logo: "/images/AndresMayorca.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Data Scientist, Ciudad, País
+  Data Scientist, Venezuela
   <br><br>
-  Mi objetivo es ___________
+  Mi objetivo es <b>ser cientifico de datos</b> 
   <br><br>
-  Tengo experiencia en ___________
+  Tengo experiencia en <b> Machine learning y Analisis de Datos</b>
   <br><br>
   <a href="https://www.linkedin.com/in/tulinkedin/">Entra a mi perfil de LinkedIn</a> 
   <br><br>
